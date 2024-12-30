@@ -18,14 +18,6 @@ https://github.com/krypciak/crossgrub
 #### SOURCE
 https://github.com/Shelton786/Grub-Themes-Arknights_Theresa
 
-## GTK
-Different packs for GTK themes
-
-### Papirus
-
-#### SOURCE
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
-
 ## SDDM
 Mostly cloned themes for SDDM
 

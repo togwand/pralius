@@ -1,7 +1,7 @@
 # Global
 
 title-text: ""
-desktop-image: "background.png"
+desktop-image: "background.jpg"
 
 # Terminal for Console and Options
 terminal-border: "20"
